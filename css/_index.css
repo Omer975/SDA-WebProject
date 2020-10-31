@@ -7,12 +7,13 @@
     margin-right: auto;
 }
 
-.logo-image {
+.logo-img img {
     margin-top:50px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /* text-align: center; */
+    text-align: center;
+    
 }
 
 .text {
